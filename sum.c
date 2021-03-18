@@ -7,9 +7,9 @@ int main()	//Main Body Fuinction
 {
 	int a,b,sum;	//Data type and Variable Declaration And Initialisation 
 	printf("\nEnter the value of a: "); 	//printf function
-	scanf("%d",&a); 	//output function
+	scanf("%d",&a); 	//input function
 	printf("\nEnter the value of b: "); 	//printf function call
-	scanf("%d",&b); 	//output function
+	scanf("%d",&b); 	//input function
 	sum=a+b; 	//variable declaration
 	printf("\nSum of %d + %d = %d",a,b,sum); 	//printf function
 }
