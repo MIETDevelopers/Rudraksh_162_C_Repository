@@ -11,7 +11,7 @@ struct student		//Struct Datatype
 };
 int main()		//Main Function Body
 {
-    int n;		//Data And Variable Declaration and Initialisation
+    int n,i;		//Data And Variable Declaration and Initialisation
     printf("Enter the number of students: \n");		//Print Function Calling
     scanf("%d",&n);		//Input Function
     struct student students[n];		//Struct Datatype
